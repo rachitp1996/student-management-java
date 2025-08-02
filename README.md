@@ -38,8 +38,7 @@ Edit
 2. Make sure a folder named `data/` exists with a file `students.csv` inside.
 3. Run `Main.java`.
 
-## 📸 Screenshot (Optional)
-*(You can add a terminal screenshot later)*
+
 
 ## 🧑 Author
 **Rachit Patel**  
